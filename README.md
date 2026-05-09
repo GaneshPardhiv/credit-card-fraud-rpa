@@ -29,7 +29,7 @@ This reduces human effort significantly and improves detection speed and accurac
 
 | Field | Details |
 |---|---|
-| **Author** | Ganesh Pardhiv Duvvuri Na |
+| **Author** | Ganesh Pardhiv Duvvuri |
 | **University** | Lovely Professional University (LPU) |
 | **Department** | B.Tech Computer Science & Engineering |
 | **Guide Faculty** | Mr. Kumar Saurabh |
