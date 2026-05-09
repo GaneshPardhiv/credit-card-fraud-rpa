@@ -1,0 +1,68 @@
+===================================================
+  Automated Credit Card Fraud Detection System
+  Author: Ganesh Pardhiv Duvvuri Na | LPU 2026
+===================================================
+
+[INFO] Loading transaction data...
+[INFO] Loaded 500 transactions successfully.
+
+[INFO] Engineering features...
+[INFO] Feature engineering complete.
+
+[INFO] Applying rule-based fraud detection...
+[INFO] Rule-based flags: 211 transactions flagged.
+
+[INFO] Loading ML model from fraud_model.pkl...
+[INFO] ML prediction done. Avg fraud probability: 0.743
+
+[INFO] Generating fraud report...
+[INFO] Report saved to: ../Reports/fraud_report.csv
+
+
+===================================================
+   FRAUD DETECTION SYSTEM — RUN SUMMARY
+===================================================
+  Run Time                : 2025-11-15 14:32:10
+  Total Transactions      : 500
+  Legitimate              : 286
+  Flagged as FRAUD        : 214
+  ─ CRITICAL Alerts       : 67
+  ─ HIGH Alerts           : 89
+===================================================
+
+[ALERT PREVIEW] Top 5 High-Risk Transactions:
+-------------------------------------------------------
+  TXN_00342  |  ₹  2,75,000.00  |  CRITICAL
+    → Dubai, UAE | Priya Mehta
+    → Reason: High Amount | Foreign Location | Unusual Timing
+
+  TXN_00118  |  ₹  1,89,500.00  |  CRITICAL
+    → New York, USA | Rahul Sharma
+    → Reason: High Amount | Foreign Location
+
+  TXN_00489  |  ₹  1,45,200.00  |  CRITICAL
+    → London, UK | Amit Verma
+    → Reason: High Amount | Foreign Location | Unusual Timing
+
+  TXN_00267  |  ₹  98,750.00  |  HIGH
+    → Singapore | Sneha Patel
+    → Reason: High Amount | Foreign Location
+
+  TXN_00073  |  ₹  87,300.00  |  HIGH
+    → Hong Kong | Ravi Kumar
+    → Reason: High Amount | Foreign Location | Suspicious Category
+
+[INFO] Full report saved. UiPath can now process the output.
+===================================================
+
+[UiPath] Reading fraud_report.csv...
+[UiPath] 214 fraud records found.
+[UiPath] Generating Excel summary report...
+[UiPath] Sending alert notifications for CRITICAL cases...
+[UiPath] Alert log written to output_log.txt
+[UiPath] Workflow completed successfully at 14:32:45
+
+===================================================
+  WORKFLOW COMPLETE — All steps executed.
+  Report Location: /Reports/fraud_report.csv
+===================================================

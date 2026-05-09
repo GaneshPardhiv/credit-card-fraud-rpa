@@ -1,0 +1,501 @@
+Transaction_ID,Card_Number,Cardholder_Name,Timestamp,Amount_INR,Location,Merchant_Name,Merchant_Category,Payment_Method,Is_Fraud,Fraud_Reason
+TXN_00001,XXXX-XXXX-XXXX-2824,Sneha Patel,2025-10-17 04:06:00,6804.62,Hong Kong,Swiggy,Restaurant,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00002,XXXX-XXXX-XXXX-1409,Vikas Gupta,2025-10-30 03:14:00,5233.27,Singapore,ICICI ATM,ATM Withdrawal,Online,1,"Foreign Location, Unusual Timing"
+TXN_00003,XXXX-XXXX-XXXX-5506,Priya Mehta,2025-10-21 10:01:00,37392.79,"Mumbai, India",BPCL Petrol Bunk,Fuel,International,0,None
+TXN_00004,XXXX-XXXX-XXXX-5012,Amit Verma,2025-10-27 18:56:00,14497.34,"Chennai, India",Flipkart,Online Shopping,ATM,0,None
+TXN_00005,XXXX-XXXX-XXXX-4657,Suresh Reddy,2025-10-25 06:20:00,13669.61,"Delhi, India",Amazon India,Online Shopping,Online,0,None
+TXN_00006,XXXX-XXXX-XXXX-3286,Suresh Reddy,2025-10-27 08:14:00,1950.0,"Dubai, UAE",Vijay Sales,Electronics,Online,1,Foreign Location
+TXN_00007,XXXX-XXXX-XXXX-2679,Rahul Sharma,2025-10-28 23:04:00,2553.39,"Bangalore, India",Reliance Fresh,Grocery,Swipe,0,None
+TXN_00008,XXXX-XXXX-XXXX-9935,Ravi Kumar,2025-10-28 10:52:00,10669.05,"Hyderabad, India",Big Bazaar,Grocery,Contactless,0,None
+TXN_00009,XXXX-XXXX-XXXX-2424,Vikas Gupta,2025-10-21 03:58:00,14119.47,"Mumbai, India",Unregistered,Unknown,ATM,1,Unusual Timing
+TXN_00010,XXXX-XXXX-XXXX-7912,Ravi Kumar,2025-10-31 05:19:00,23771.19,"Delhi, India",Myntra,Online Shopping,Swipe,0,None
+TXN_00011,XXXX-XXXX-XXXX-1520,Amit Verma,2025-10-29 00:26:00,8307.54,"Hyderabad, India",SBI ATM,ATM Withdrawal,Swipe,1,Unusual Timing
+TXN_00012,XXXX-XXXX-XXXX-1488,Anjali Singh,2025-10-06 07:08:00,4612.09,"Bangalore, India",Croma,Electronics,Online,0,None
+TXN_00013,XXXX-XXXX-XXXX-2535,Kiran Rao,2025-10-03 06:02:00,7588.34,"Pune, India",Zomato,Restaurant,Online,0,None
+TXN_00014,XXXX-XXXX-XXXX-4582,Pooja Nair,2025-10-14 07:31:00,14129.94,"Chennai, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00015,XXXX-XXXX-XXXX-4811,Suresh Reddy,2025-10-06 06:06:00,9915.12,"Hyderabad, India",Amazon,Electronics,Swipe,0,None
+TXN_00016,XXXX-XXXX-XXXX-9279,Kiran Rao,2025-10-11 08:56:00,44488.55,"Chennai, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00017,XXXX-XXXX-XXXX-1434,Neha Joshi,2025-10-24 06:08:00,12396.02,"Kolkata, India",IndiGo,Travel,Swipe,0,None
+TXN_00018,XXXX-XXXX-XXXX-4257,Ravi Kumar,2025-10-17 21:29:00,777.38,"Delhi, India",SBI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00019,XXXX-XXXX-XXXX-9928,Rahul Sharma,2025-10-17 03:42:00,8693.89,"New York, USA",MakeMyTrip,Travel,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00020,XXXX-XXXX-XXXX-7873,Ravi Kumar,2025-10-31 01:34:00,11527.69,"Kolkata, India",IndiGo,Travel,International,1,Unusual Timing
+TXN_00021,XXXX-XXXX-XXXX-4611,Neha Joshi,2025-10-19 05:37:00,9620.97,"Delhi, India",Myntra,Online Shopping,Contactless,0,None
+TXN_00022,XXXX-XXXX-XXXX-8359,Kiran Rao,2025-10-07 22:56:00,9444.74,"Mumbai, India",Zomato,Restaurant,Online,0,None
+TXN_00023,XXXX-XXXX-XXXX-5557,Deepak Malhotra,2025-10-19 00:41:00,14354.09,"Bangalore, India",Dominos,Restaurant,Online,1,Unusual Timing
+TXN_00024,XXXX-XXXX-XXXX-1106,Anjali Singh,2025-10-05 13:53:00,12089.85,"Delhi, India",Swiggy,Restaurant,Online,0,None
+TXN_00025,XXXX-XXXX-XXXX-3615,Suresh Reddy,2025-10-22 05:39:00,4531.76,"Bangalore, India",Zomato,Restaurant,Online,0,None
+TXN_00026,XXXX-XXXX-XXXX-7924,Vikas Gupta,2025-10-18 17:17:00,992.7,"Dubai, UAE",Unknown Merchant,Unknown,Contactless,1,Foreign Location
+TXN_00027,XXXX-XXXX-XXXX-6574,Pooja Nair,2025-10-02 17:44:00,7315.34,"London, UK",Amazon,Electronics,Swipe,1,Foreign Location
+TXN_00028,XXXX-XXXX-XXXX-5552,Amit Verma,2025-10-17 03:13:00,9139.24,Singapore,BPCL Petrol Bunk,Fuel,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00029,XXXX-XXXX-XXXX-3547,Amit Verma,2025-10-20 06:28:00,10803.61,"Mumbai, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00030,XXXX-XXXX-XXXX-4527,Anjali Singh,2025-10-11 09:54:00,49138.09,"Pune, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00031,XXXX-XXXX-XXXX-6514,Rahul Sharma,2025-10-16 19:06:00,5621.05,"Dubai, UAE",Dominos,Restaurant,International,1,Foreign Location
+TXN_00032,XXXX-XXXX-XXXX-2674,Ravi Kumar,2025-10-30 14:23:00,4854.83,"Kolkata, India",Amazon India,Online Shopping,Online,0,None
+TXN_00033,XXXX-XXXX-XXXX-2519,Suresh Reddy,2025-10-24 13:57:00,4085.33,"Mumbai, India",Big Bazaar,Grocery,International,0,None
+TXN_00034,XXXX-XXXX-XXXX-7224,Ravi Kumar,2025-10-28 20:22:00,1542.49,"Hyderabad, India",Swiggy,Restaurant,Swipe,0,None
+TXN_00035,XXXX-XXXX-XXXX-2584,Priya Mehta,2025-10-03 22:25:00,5823.83,"Delhi, India",Amazon,Electronics,Online,0,None
+TXN_00036,XXXX-XXXX-XXXX-6881,Anjali Singh,2025-10-13 02:12:00,3799.23,"Chennai, India",Flipkart,Online Shopping,Swipe,1,Unusual Timing
+TXN_00037,XXXX-XXXX-XXXX-6635,Priya Mehta,2025-10-06 13:54:00,26460.25,"Mumbai, India",MakeMyTrip,Travel,International,0,None
+TXN_00038,XXXX-XXXX-XXXX-5333,Pooja Nair,2025-10-20 17:05:00,4759.45,Hong Kong,Apollo Pharmacy,Medical,Online,1,Foreign Location
+TXN_00039,XXXX-XXXX-XXXX-1711,Rahul Sharma,2025-10-29 14:13:00,33015.37,"Pune, India",Zomato,Restaurant,Swipe,0,None
+TXN_00040,XXXX-XXXX-XXXX-8527,Ravi Kumar,2025-10-28 17:40:00,4697.25,"Mumbai, India",Amazon India,Online Shopping,Online,0,None
+TXN_00041,XXXX-XXXX-XXXX-9785,Vikas Gupta,2025-10-26 19:01:00,14183.97,"New York, USA",SBI ATM,ATM Withdrawal,Swipe,1,Foreign Location
+TXN_00042,XXXX-XXXX-XXXX-3045,Rahul Sharma,2025-10-03 11:50:00,14503.63,"New York, USA",HDFC ATM,ATM Withdrawal,Swipe,1,Foreign Location
+TXN_00043,XXXX-XXXX-XXXX-7201,Pooja Nair,2025-10-15 13:15:00,5358.14,"Chennai, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00044,XXXX-XXXX-XXXX-2291,Priya Mehta,2025-10-06 16:50:00,7473.92,"Pune, India",Big Bazaar,Grocery,International,0,None
+TXN_00045,XXXX-XXXX-XXXX-5803,Anjali Singh,2025-10-25 10:13:00,31470.54,"Bangalore, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00046,XXXX-XXXX-XXXX-6925,Rahul Sharma,2025-10-04 06:53:00,12722.87,Hong Kong,Big Bazaar,Grocery,International,1,Foreign Location
+TXN_00047,XXXX-XXXX-XXXX-4150,Ravi Kumar,2025-10-24 23:13:00,13248.59,"Mumbai, India",Vijay Sales,Electronics,ATM,0,None
+TXN_00048,XXXX-XXXX-XXXX-2139,Amit Verma,2025-10-26 08:13:00,27807.81,"Mumbai, India",IRCTC,Travel,ATM,0,None
+TXN_00049,XXXX-XXXX-XXXX-1750,Sneha Patel,2025-10-11 06:21:00,8597.2,"Mumbai, India",IRCTC,Travel,Online,0,None
+TXN_00050,XXXX-XXXX-XXXX-4733,Neha Joshi,2025-10-07 15:50:00,8343.02,"Dubai, UAE",DMart,Grocery,Contactless,1,Foreign Location
+TXN_00051,XXXX-XXXX-XXXX-5741,Ravi Kumar,2025-10-26 18:00:00,7613.41,"Mumbai, India",Dominos,Restaurant,International,0,None
+TXN_00052,XXXX-XXXX-XXXX-2307,Neha Joshi,2025-10-13 03:54:00,49618.17,"Hyderabad, India",Vijay Sales,Electronics,Online,1,Unusual Timing
+TXN_00053,XXXX-XXXX-XXXX-4814,Neha Joshi,2025-10-07 12:08:00,1870.28,"Chennai, India",DMart,Grocery,Contactless,0,None
+TXN_00054,XXXX-XXXX-XXXX-2654,Sneha Patel,2025-10-24 09:16:00,42821.4,Singapore,BPCL Petrol Bunk,Fuel,Contactless,1,Foreign Location
+TXN_00055,XXXX-XXXX-XXXX-7227,Rahul Sharma,2025-10-08 18:07:00,14090.33,"Delhi, India",Zomato,Restaurant,International,0,None
+TXN_00056,XXXX-XXXX-XXXX-5554,Rahul Sharma,2025-10-29 12:55:00,32819.29,"Delhi, India",Vijay Sales,Electronics,Online,0,None
+TXN_00057,XXXX-XXXX-XXXX-8428,Vikas Gupta,2025-10-02 10:08:00,775.02,"Bangalore, India",IndiGo,Travel,Online,0,None
+TXN_00058,XXXX-XXXX-XXXX-6977,Deepak Malhotra,2025-10-01 23:22:00,5062.31,"Dubai, UAE",Croma,Electronics,Online,1,Foreign Location
+TXN_00059,XXXX-XXXX-XXXX-3664,Ravi Kumar,2025-10-11 11:37:00,6909.13,"Pune, India",Amazon,Electronics,Swipe,0,None
+TXN_00060,XXXX-XXXX-XXXX-7065,Pooja Nair,2025-10-15 03:01:00,7781.04,"Kolkata, India",Croma,Electronics,Swipe,1,Unusual Timing
+TXN_00061,XXXX-XXXX-XXXX-6820,Neha Joshi,2025-10-08 18:16:00,9234.72,"Bangalore, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00062,XXXX-XXXX-XXXX-4432,Pooja Nair,2025-10-03 13:08:00,14860.17,"Delhi, India",Myntra,Online Shopping,Online,0,None
+TXN_00063,XXXX-XXXX-XXXX-5374,Neha Joshi,2025-10-19 07:33:00,26773.07,"Mumbai, India",ICICI ATM,ATM Withdrawal,International,0,None
+TXN_00064,XXXX-XXXX-XXXX-2169,Deepak Malhotra,2025-10-06 04:47:00,39805.89,"Delhi, India",Amazon India,Online Shopping,Contactless,1,Unusual Timing
+TXN_00065,XXXX-XXXX-XXXX-3803,Amit Verma,2025-10-04 01:30:00,12254.66,"Kolkata, India",Apollo Pharmacy,Medical,Swipe,1,Unusual Timing
+TXN_00066,XXXX-XXXX-XXXX-9751,Rahul Sharma,2025-10-20 11:49:00,10139.72,"Hyderabad, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00067,XXXX-XXXX-XXXX-5010,Priya Mehta,2025-10-16 18:32:00,42886.42,"Delhi, India",SBI ATM,ATM Withdrawal,International,0,None
+TXN_00068,XXXX-XXXX-XXXX-3677,Priya Mehta,2025-10-26 15:06:00,15932.65,"Delhi, India",Flipkart,Online Shopping,Online,0,None
+TXN_00069,XXXX-XXXX-XXXX-8573,Suresh Reddy,2025-10-20 14:32:00,14509.35,"Chennai, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00070,XXXX-XXXX-XXXX-7216,Vikas Gupta,2025-10-10 18:39:00,35217.2,"Bangalore, India",HPCL Pump,Fuel,ATM,0,None
+TXN_00071,XXXX-XXXX-XXXX-5422,Amit Verma,2025-10-03 04:46:00,20967.92,"Hyderabad, India",Vijay Sales,Electronics,Swipe,1,Unusual Timing
+TXN_00072,XXXX-XXXX-XXXX-4598,Suresh Reddy,2025-10-29 10:33:00,9334.06,Singapore,Reliance Fresh,Grocery,Swipe,1,Foreign Location
+TXN_00073,XXXX-XXXX-XXXX-6313,Neha Joshi,2025-10-14 04:29:00,38825.44,"Delhi, India",HDFC ATM,ATM Withdrawal,Contactless,1,Unusual Timing
+TXN_00074,XXXX-XXXX-XXXX-1916,Amit Verma,2025-10-28 18:01:00,14228.26,"Bangalore, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00075,XXXX-XXXX-XXXX-4752,Pooja Nair,2025-10-03 22:30:00,382.17,"Delhi, India",Croma,Electronics,Swipe,0,None
+TXN_00076,XXXX-XXXX-XXXX-1525,Suresh Reddy,2025-10-18 11:27:00,2356.33,"Mumbai, India",BPCL Petrol Bunk,Fuel,International,0,None
+TXN_00077,XXXX-XXXX-XXXX-6168,Priya Mehta,2025-10-30 14:06:00,6214.62,"Delhi, India",Flipkart,Online Shopping,Online,0,None
+TXN_00078,XXXX-XXXX-XXXX-7572,Neha Joshi,2025-10-22 06:45:00,268204.43,"Pune, India",MedPlus,Medical,Online,1,High Amount
+TXN_00079,XXXX-XXXX-XXXX-5386,Deepak Malhotra,2025-10-20 06:04:00,19832.89,"Dubai, UAE",BPCL Petrol Bunk,Fuel,ATM,1,Foreign Location
+TXN_00080,XXXX-XXXX-XXXX-2084,Priya Mehta,2025-10-04 18:20:00,4943.24,"Pune, India",Amazon,Electronics,Swipe,0,None
+TXN_00081,XXXX-XXXX-XXXX-4456,Rahul Sharma,2025-10-27 06:09:00,7929.61,"Mumbai, India",Zomato,Restaurant,International,0,None
+TXN_00082,XXXX-XXXX-XXXX-6155,Sneha Patel,2025-10-04 03:08:00,2680.42,"Dubai, UAE",IRCTC,Travel,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00083,XXXX-XXXX-XXXX-4483,Suresh Reddy,2025-10-13 01:39:00,27400.04,"Bangalore, India",Amazon India,Online Shopping,International,1,Unusual Timing
+TXN_00084,XXXX-XXXX-XXXX-9179,Deepak Malhotra,2025-10-28 08:37:00,37515.82,"Mumbai, India",Myntra,Online Shopping,Online,0,None
+TXN_00085,XXXX-XXXX-XXXX-7482,Ravi Kumar,2025-10-24 17:45:00,9190.14,"Delhi, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00086,XXXX-XXXX-XXXX-8517,Suresh Reddy,2025-10-15 04:24:00,3773.14,"Bangalore, India",Amazon India,Online Shopping,Contactless,1,Unusual Timing
+TXN_00087,XXXX-XXXX-XXXX-3340,Rahul Sharma,2025-10-26 19:33:00,3450.52,"Chennai, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00088,XXXX-XXXX-XXXX-5339,Suresh Reddy,2025-10-13 21:29:00,25115.14,"Pune, India",Vijay Sales,Electronics,Swipe,0,None
+TXN_00089,XXXX-XXXX-XXXX-3287,Pooja Nair,2025-10-22 21:38:00,10604.33,"Delhi, India",IndiGo,Travel,Swipe,0,None
+TXN_00090,XXXX-XXXX-XXXX-5040,Priya Mehta,2025-10-19 16:06:00,5297.17,Hong Kong,DMart,Grocery,Swipe,1,Foreign Location
+TXN_00091,XXXX-XXXX-XXXX-9830,Neha Joshi,2025-10-31 06:07:00,24571.01,"Mumbai, India",IndiGo,Travel,Online,0,None
+TXN_00092,XXXX-XXXX-XXXX-5304,Kiran Rao,2025-10-29 06:41:00,10181.67,"Bangalore, India",Amazon India,Online Shopping,Swipe,1,ML Model Flag
+TXN_00093,XXXX-XXXX-XXXX-8019,Pooja Nair,2025-10-24 20:46:00,14704.39,"Chennai, India",IRCTC,Travel,Swipe,0,None
+TXN_00094,XXXX-XXXX-XXXX-7543,Priya Mehta,2025-10-10 12:27:00,251153.96,"Kolkata, India",Reliance Fresh,Grocery,International,1,High Amount
+TXN_00095,XXXX-XXXX-XXXX-6930,Deepak Malhotra,2025-10-20 14:56:00,4385.69,"Delhi, India",Myntra,Online Shopping,Contactless,0,None
+TXN_00096,XXXX-XXXX-XXXX-4593,Neha Joshi,2025-10-11 01:26:00,30483.16,"Chennai, India",Myntra,Online Shopping,Contactless,1,Unusual Timing
+TXN_00097,XXXX-XXXX-XXXX-3266,Ravi Kumar,2025-10-15 19:52:00,7238.28,"Dubai, UAE",BPCL Petrol Bunk,Fuel,Online,1,Foreign Location
+TXN_00098,XXXX-XXXX-XXXX-9348,Anjali Singh,2025-10-20 16:25:00,8124.81,"Mumbai, India",Louis Vuitton,Luxury Goods,Contactless,0,None
+TXN_00099,XXXX-XXXX-XXXX-9085,Ravi Kumar,2025-10-19 01:46:00,19804.55,"Mumbai, India",HPCL Pump,Fuel,Online,1,Unusual Timing
+TXN_00100,XXXX-XXXX-XXXX-2489,Vikas Gupta,2025-10-05 09:20:00,8843.77,"Dubai, UAE",Big Bazaar,Grocery,Swipe,1,Foreign Location
+TXN_00101,XXXX-XXXX-XXXX-1771,Ravi Kumar,2025-10-19 13:20:00,10080.53,Hong Kong,Big Bazaar,Grocery,Online,1,Foreign Location
+TXN_00102,XXXX-XXXX-XXXX-2796,Kiran Rao,2025-10-29 17:16:00,9605.37,"Mumbai, India",HPCL Pump,Fuel,Online,0,None
+TXN_00103,XXXX-XXXX-XXXX-3504,Neha Joshi,2025-10-17 07:09:00,6258.19,"Dubai, UAE",Reliance Fresh,Grocery,Online,1,Foreign Location
+TXN_00104,XXXX-XXXX-XXXX-3621,Priya Mehta,2025-10-30 15:59:00,41976.81,"Bangalore, India",Amazon,Electronics,International,0,None
+TXN_00105,XXXX-XXXX-XXXX-7916,Deepak Malhotra,2025-10-21 13:04:00,8300.25,"Pune, India",HDFC ATM,ATM Withdrawal,ATM,0,None
+TXN_00106,XXXX-XXXX-XXXX-2040,Pooja Nair,2025-10-05 05:53:00,47726.12,"Pune, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00107,XXXX-XXXX-XXXX-7304,Neha Joshi,2025-10-04 23:05:00,21980.96,"Hyderabad, India",Dominos,Restaurant,Online,0,None
+TXN_00108,XXXX-XXXX-XXXX-7252,Suresh Reddy,2025-10-19 18:06:00,37606.43,"Delhi, India",Amazon India,Online Shopping,International,0,None
+TXN_00109,XXXX-XXXX-XXXX-8668,Anjali Singh,2025-10-17 05:51:00,35094.67,"Dubai, UAE",Vijay Sales,Electronics,International,1,Foreign Location
+TXN_00110,XXXX-XXXX-XXXX-9669,Suresh Reddy,2025-10-06 21:35:00,10874.45,"Mumbai, India",Zomato,Restaurant,Swipe,0,None
+TXN_00111,XXXX-XXXX-XXXX-5119,Deepak Malhotra,2025-10-03 21:37:00,93766.19,"Mumbai, India",Amazon,Electronics,Swipe,1,High Amount
+TXN_00112,XXXX-XXXX-XXXX-1188,Sneha Patel,2025-10-25 07:35:00,47187.22,"New York, USA",Reliance Fresh,Grocery,Online,1,Foreign Location
+TXN_00113,XXXX-XXXX-XXXX-2876,Neha Joshi,2025-10-15 09:42:00,32338.44,"Chennai, India",BPCL Petrol Bunk,Fuel,Swipe,0,None
+TXN_00114,XXXX-XXXX-XXXX-9797,Vikas Gupta,2025-10-06 13:26:00,281509.92,"Mumbai, India",Amazon India,Online Shopping,Contactless,1,High Amount
+TXN_00115,XXXX-XXXX-XXXX-5371,Anjali Singh,2025-10-16 10:55:00,34878.67,"New York, USA",DMart,Grocery,Online,1,Foreign Location
+TXN_00116,XXXX-XXXX-XXXX-6573,Anjali Singh,2025-10-29 17:48:00,14746.61,"Dubai, UAE",IndiGo,Travel,Online,1,Foreign Location
+TXN_00117,XXXX-XXXX-XXXX-2827,Suresh Reddy,2025-10-19 09:55:00,14837.58,"Bangalore, India",Amazon,Electronics,Online,0,None
+TXN_00118,XXXX-XXXX-XXXX-5808,Sneha Patel,2025-10-03 12:18:00,7459.3,"Mumbai, India",Croma,Electronics,Online,0,None
+TXN_00119,XXXX-XXXX-XXXX-8123,Kiran Rao,2025-10-26 22:19:00,31380.73,"Chennai, India",Zomato,Restaurant,Contactless,0,None
+TXN_00120,XXXX-XXXX-XXXX-3591,Neha Joshi,2025-10-16 08:06:00,1778.44,"Delhi, India",Amazon India,Online Shopping,Swipe,0,None
+TXN_00121,XXXX-XXXX-XXXX-8433,Priya Mehta,2025-10-25 23:32:00,6937.83,"Hyderabad, India",Croma,Electronics,International,0,None
+TXN_00122,XXXX-XXXX-XXXX-1053,Kiran Rao,2025-10-10 09:09:00,2874.37,"Dubai, UAE",ICICI ATM,ATM Withdrawal,Contactless,1,Foreign Location
+TXN_00123,XXXX-XXXX-XXXX-5315,Amit Verma,2025-10-29 08:30:00,34872.34,"Bangalore, India",Unregistered,Unknown,Online,1,Suspicious Category
+TXN_00124,XXXX-XXXX-XXXX-9201,Anjali Singh,2025-10-10 21:54:00,44965.13,"Mumbai, India",Croma,Electronics,Contactless,0,None
+TXN_00125,XXXX-XXXX-XXXX-3927,Pooja Nair,2025-10-05 22:22:00,33034.82,"Pune, India",Apollo Pharmacy,Medical,Swipe,0,None
+TXN_00126,XXXX-XXXX-XXXX-9317,Ravi Kumar,2025-10-25 01:23:00,10071.91,"Delhi, India",HPCL Pump,Fuel,Swipe,1,Unusual Timing
+TXN_00127,XXXX-XXXX-XXXX-2743,Rahul Sharma,2025-10-06 05:48:00,2195.12,"Delhi, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00128,XXXX-XXXX-XXXX-5889,Kiran Rao,2025-10-13 05:36:00,3795.9,"Delhi, India",Apollo Pharmacy,Medical,Online,0,None
+TXN_00129,XXXX-XXXX-XXXX-9317,Amit Verma,2025-10-10 23:51:00,3609.27,"Delhi, India",MedPlus,Medical,Online,0,None
+TXN_00130,XXXX-XXXX-XXXX-4258,Amit Verma,2025-10-19 15:54:00,125486.46,"London, UK",HPCL Pump,Fuel,Swipe,1,"High Amount, Foreign Location"
+TXN_00131,XXXX-XXXX-XXXX-3504,Neha Joshi,2025-10-25 06:49:00,37878.92,"Mumbai, India",Vijay Sales,Electronics,Online,0,None
+TXN_00132,XXXX-XXXX-XXXX-7126,Ravi Kumar,2025-10-27 20:39:00,1025.65,"Hyderabad, India",Dominos,Restaurant,Swipe,0,None
+TXN_00133,XXXX-XXXX-XXXX-3646,Kiran Rao,2025-10-30 03:41:00,4671.41,"Delhi, India",Big Bazaar,Grocery,Online,1,Unusual Timing
+TXN_00134,XXXX-XXXX-XXXX-9837,Suresh Reddy,2025-10-25 02:01:00,7587.56,"Delhi, India",Swiggy,Restaurant,Online,1,Unusual Timing
+TXN_00135,XXXX-XXXX-XXXX-9689,Sneha Patel,2025-10-27 07:59:00,25884.23,"Bangalore, India",Amazon India,Online Shopping,Online,0,None
+TXN_00136,XXXX-XXXX-XXXX-1009,Rahul Sharma,2025-10-29 09:53:00,13750.34,"Hyderabad, India",Big Bazaar,Grocery,Online,0,None
+TXN_00137,XXXX-XXXX-XXXX-6310,Deepak Malhotra,2025-10-30 22:17:00,9257.92,"Mumbai, India",BPCL Petrol Bunk,Fuel,Swipe,0,None
+TXN_00138,XXXX-XXXX-XXXX-9005,Priya Mehta,2025-10-02 13:11:00,2090.17,"Delhi, India",Swiggy,Restaurant,Contactless,0,None
+TXN_00139,XXXX-XXXX-XXXX-1319,Suresh Reddy,2025-10-12 23:44:00,11241.25,"Mumbai, India",DMart,Grocery,Online,0,None
+TXN_00140,XXXX-XXXX-XXXX-2832,Anjali Singh,2025-10-14 12:58:00,6296.1,"Delhi, India",SBI ATM,ATM Withdrawal,ATM,0,None
+TXN_00141,XXXX-XXXX-XXXX-6947,Neha Joshi,2025-10-15 19:22:00,7115.34,"London, UK",Amazon,Electronics,Swipe,1,Foreign Location
+TXN_00142,XXXX-XXXX-XXXX-6038,Suresh Reddy,2025-10-01 14:11:00,9995.01,"Hyderabad, India",Myntra,Online Shopping,Swipe,0,None
+TXN_00143,XXXX-XXXX-XXXX-4923,Pooja Nair,2025-10-07 10:36:00,3787.23,"Pune, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00144,XXXX-XXXX-XXXX-1949,Anjali Singh,2025-10-29 09:25:00,17865.46,"Dubai, UAE",Unknown Merchant,Unknown,Online,1,Foreign Location
+TXN_00145,XXXX-XXXX-XXXX-4946,Neha Joshi,2025-10-04 07:09:00,10586.12,"Kolkata, India",Swiggy,Restaurant,Swipe,0,None
+TXN_00146,XXXX-XXXX-XXXX-2290,Priya Mehta,2025-10-28 08:01:00,8506.11,Hong Kong,Dominos,Restaurant,Swipe,1,Foreign Location
+TXN_00147,XXXX-XXXX-XXXX-2403,Amit Verma,2025-10-05 05:47:00,8259.97,"Kolkata, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00148,XXXX-XXXX-XXXX-8962,Suresh Reddy,2025-10-23 23:13:00,8633.25,"Bangalore, India",Zomato,Restaurant,Swipe,0,None
+TXN_00149,XXXX-XXXX-XXXX-2133,Sneha Patel,2025-10-17 09:26:00,4988.95,"Hyderabad, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00150,XXXX-XXXX-XXXX-9727,Vikas Gupta,2025-10-20 16:21:00,1831.98,"Chennai, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00151,XXXX-XXXX-XXXX-3060,Anjali Singh,2025-10-08 01:23:00,8788.9,"New York, USA",Flipkart,Online Shopping,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00152,XXXX-XXXX-XXXX-3103,Vikas Gupta,2025-10-14 15:46:00,7704.59,"Chennai, India",Flipkart,Online Shopping,International,0,None
+TXN_00153,XXXX-XXXX-XXXX-8787,Anjali Singh,2025-10-15 04:49:00,32963.67,"Bangalore, India",Reliance Fresh,Grocery,Swipe,1,Unusual Timing
+TXN_00154,XXXX-XXXX-XXXX-3705,Suresh Reddy,2025-10-25 13:38:00,960.28,"Delhi, India",Dominos,Restaurant,ATM,0,None
+TXN_00155,XXXX-XXXX-XXXX-5342,Sneha Patel,2025-10-04 22:56:00,12123.04,"Bangalore, India",Flipkart,Online Shopping,Swipe,0,None
+TXN_00156,XXXX-XXXX-XXXX-9645,Suresh Reddy,2025-10-03 13:09:00,43575.86,"Delhi, India",Amazon,Electronics,Online,0,None
+TXN_00157,XXXX-XXXX-XXXX-7932,Sneha Patel,2025-10-08 01:48:00,16585.14,"New York, USA",Dominos,Restaurant,International,1,"Foreign Location, Unusual Timing"
+TXN_00158,XXXX-XXXX-XXXX-4470,Sneha Patel,2025-10-27 16:03:00,1050.02,"Kolkata, India",Zomato,Restaurant,ATM,0,None
+TXN_00159,XXXX-XXXX-XXXX-9835,Priya Mehta,2025-10-30 02:05:00,67254.79,"Mumbai, India",Amazon,Electronics,Online,1,"High Amount, Unusual Timing"
+TXN_00160,XXXX-XXXX-XXXX-4295,Amit Verma,2025-10-12 22:28:00,29310.34,Hong Kong,Myntra,Online Shopping,Contactless,1,Foreign Location
+TXN_00161,XXXX-XXXX-XXXX-6107,Priya Mehta,2025-10-29 13:27:00,49241.66,"Hyderabad, India",DMart,Grocery,Contactless,0,None
+TXN_00162,XXXX-XXXX-XXXX-7537,Vikas Gupta,2025-10-22 01:38:00,6363.39,"Kolkata, India",HDFC ATM,ATM Withdrawal,Online,1,Unusual Timing
+TXN_00163,XXXX-XXXX-XXXX-7118,Neha Joshi,2025-10-20 04:26:00,45436.71,Hong Kong,DMart,Grocery,Online,1,"Foreign Location, Unusual Timing"
+TXN_00164,XXXX-XXXX-XXXX-8177,Amit Verma,2025-10-12 23:13:00,38895.56,Hong Kong,Zomato,Restaurant,Online,1,Foreign Location
+TXN_00165,XXXX-XXXX-XXXX-9479,Amit Verma,2025-10-23 04:07:00,8135.57,"Mumbai, India",Big Bazaar,Grocery,Online,1,Unusual Timing
+TXN_00166,XXXX-XXXX-XXXX-8397,Anjali Singh,2025-10-16 01:27:00,5281.77,"Pune, India",DMart,Grocery,Contactless,1,Unusual Timing
+TXN_00167,XXXX-XXXX-XXXX-2982,Suresh Reddy,2025-10-06 01:18:00,8105.15,"Delhi, India",Big Bazaar,Grocery,Swipe,1,Unusual Timing
+TXN_00168,XXXX-XXXX-XXXX-5061,Deepak Malhotra,2025-10-30 06:43:00,10945.09,"Dubai, UAE",Big Bazaar,Grocery,ATM,1,Foreign Location
+TXN_00169,XXXX-XXXX-XXXX-4681,Vikas Gupta,2025-10-26 15:31:00,151.75,"New York, USA",Reliance Fresh,Grocery,Online,1,Foreign Location
+TXN_00170,XXXX-XXXX-XXXX-2049,Sneha Patel,2025-10-23 19:42:00,4545.61,"Mumbai, India",Amazon,Electronics,Online,0,None
+TXN_00171,XXXX-XXXX-XXXX-6539,Priya Mehta,2025-10-14 11:02:00,8212.24,Hong Kong,Myntra,Online Shopping,Online,1,Foreign Location
+TXN_00172,XXXX-XXXX-XXXX-1344,Amit Verma,2025-10-10 17:25:00,12368.07,"Delhi, India",Vijay Sales,Electronics,Online,0,None
+TXN_00173,XXXX-XXXX-XXXX-4770,Amit Verma,2025-10-26 21:03:00,5257.78,"Dubai, UAE",Swiggy,Restaurant,Online,1,Foreign Location
+TXN_00174,XXXX-XXXX-XXXX-4608,Amit Verma,2025-10-01 15:13:00,14067.41,"Kolkata, India",Vijay Sales,Electronics,Online,0,None
+TXN_00175,XXXX-XXXX-XXXX-1117,Rahul Sharma,2025-10-14 04:13:00,43331.74,"Bangalore, India",Big Bazaar,Grocery,International,1,Unusual Timing
+TXN_00176,XXXX-XXXX-XXXX-2163,Vikas Gupta,2025-10-07 04:48:00,11514.2,"Dubai, UAE",Myntra,Online Shopping,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00177,XXXX-XXXX-XXXX-1964,Sneha Patel,2025-10-12 05:18:00,22212.86,"Dubai, UAE",Amazon,Electronics,Swipe,1,Foreign Location
+TXN_00178,XXXX-XXXX-XXXX-4750,Deepak Malhotra,2025-10-15 07:07:00,600.29,"Delhi, India",MedPlus,Medical,Swipe,0,None
+TXN_00179,XXXX-XXXX-XXXX-2104,Vikas Gupta,2025-10-01 15:31:00,10578.97,"Hyderabad, India",Vijay Sales,Electronics,ATM,0,None
+TXN_00180,XXXX-XXXX-XXXX-1514,Suresh Reddy,2025-10-19 16:11:00,11134.06,"Dubai, UAE",DMart,Grocery,International,1,Foreign Location
+TXN_00181,XXXX-XXXX-XXXX-6413,Priya Mehta,2025-10-06 20:24:00,3591.66,"Pune, India",Swiggy,Restaurant,Swipe,0,None
+TXN_00182,XXXX-XXXX-XXXX-2160,Kiran Rao,2025-10-24 01:45:00,12969.58,"New York, USA",MedPlus,Medical,Online,1,"Foreign Location, Unusual Timing"
+TXN_00183,XXXX-XXXX-XXXX-9423,Anjali Singh,2025-10-11 03:32:00,7608.05,"Mumbai, India",HDFC ATM,ATM Withdrawal,Online,1,Unusual Timing
+TXN_00184,XXXX-XXXX-XXXX-4899,Kiran Rao,2025-10-25 04:53:00,12255.22,"Pune, India",Swiggy,Restaurant,Swipe,1,Unusual Timing
+TXN_00185,XXXX-XXXX-XXXX-5562,Vikas Gupta,2025-10-29 20:51:00,35927.12,Singapore,Reliance Fresh,Grocery,Contactless,1,Foreign Location
+TXN_00186,XXXX-XXXX-XXXX-8953,Anjali Singh,2025-10-16 10:04:00,4877.91,"Hyderabad, India",Big Bazaar,Grocery,Online,0,None
+TXN_00187,XXXX-XXXX-XXXX-4510,Anjali Singh,2025-10-18 06:55:00,2234.58,"Hyderabad, India",Amazon India,Online Shopping,Contactless,0,None
+TXN_00188,XXXX-XXXX-XXXX-9834,Amit Verma,2025-10-03 03:27:00,3393.54,"Delhi, India",Dominos,Restaurant,Online,1,Unusual Timing
+TXN_00189,XXXX-XXXX-XXXX-3167,Rahul Sharma,2025-10-02 03:29:00,1008.27,Hong Kong,Reliance Fresh,Grocery,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00190,XXXX-XXXX-XXXX-8744,Deepak Malhotra,2025-10-04 15:55:00,46905.22,"London, UK",Croma,Electronics,ATM,1,Foreign Location
+TXN_00191,XXXX-XXXX-XXXX-4981,Anjali Singh,2025-10-14 16:36:00,6465.29,"Chennai, India",Vijay Sales,Electronics,Online,0,None
+TXN_00192,XXXX-XXXX-XXXX-8749,Neha Joshi,2025-10-19 15:36:00,14587.12,"Bangalore, India",Unknown Merchant,Unknown,Swipe,0,None
+TXN_00193,XXXX-XXXX-XXXX-7669,Ravi Kumar,2025-10-18 14:45:00,42503.16,"Chennai, India",Amazon,Electronics,Online,0,None
+TXN_00194,XXXX-XXXX-XXXX-4119,Rahul Sharma,2025-10-28 15:26:00,6303.24,"Mumbai, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00195,XXXX-XXXX-XXXX-2545,Pooja Nair,2025-10-13 16:07:00,5709.26,"Delhi, India",DMart,Grocery,Swipe,0,None
+TXN_00196,XXXX-XXXX-XXXX-2588,Rahul Sharma,2025-10-18 14:01:00,44726.93,"Delhi, India",Reliance Fresh,Grocery,ATM,0,None
+TXN_00197,XXXX-XXXX-XXXX-8062,Priya Mehta,2025-10-15 04:10:00,10642.89,"Hyderabad, India",Reliance Fresh,Grocery,Online,1,Unusual Timing
+TXN_00198,XXXX-XXXX-XXXX-6804,Vikas Gupta,2025-10-27 16:29:00,190596.49,"Mumbai, India",Croma,Electronics,Online,1,High Amount
+TXN_00199,XXXX-XXXX-XXXX-7939,Sneha Patel,2025-10-30 18:58:00,19693.25,"New York, USA",IndiGo,Travel,Online,1,Foreign Location
+TXN_00200,XXXX-XXXX-XXXX-7735,Deepak Malhotra,2025-10-16 18:05:00,3129.72,"Delhi, India",Croma,Electronics,ATM,0,None
+TXN_00201,XXXX-XXXX-XXXX-8651,Priya Mehta,2025-10-19 23:54:00,13841.17,"Mumbai, India",Zomato,Restaurant,Swipe,0,None
+TXN_00202,XXXX-XXXX-XXXX-1887,Neha Joshi,2025-10-05 20:15:00,40360.46,"Pune, India",Reliance Fresh,Grocery,Swipe,0,None
+TXN_00203,XXXX-XXXX-XXXX-2612,Pooja Nair,2025-10-19 22:37:00,4100.08,"New York, USA",IndiGo,Travel,Swipe,1,Foreign Location
+TXN_00204,XXXX-XXXX-XXXX-1993,Neha Joshi,2025-10-18 10:33:00,9083.54,"Dubai, UAE",Big Bazaar,Grocery,Online,1,Foreign Location
+TXN_00205,XXXX-XXXX-XXXX-7596,Amit Verma,2025-10-04 16:25:00,41659.37,"Bangalore, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00206,XXXX-XXXX-XXXX-6559,Vikas Gupta,2025-10-14 13:47:00,31778.8,"Mumbai, India",Dominos,Restaurant,Swipe,0,None
+TXN_00207,XXXX-XXXX-XXXX-2790,Anjali Singh,2025-10-15 19:14:00,48495.69,"Hyderabad, India",DMart,Grocery,Online,0,None
+TXN_00208,XXXX-XXXX-XXXX-5073,Anjali Singh,2025-10-15 13:49:00,14063.68,"New York, USA",HPCL Pump,Fuel,Swipe,1,Foreign Location
+TXN_00209,XXXX-XXXX-XXXX-4139,Kiran Rao,2025-10-08 12:04:00,49985.02,"Kolkata, India",HPCL Pump,Fuel,Online,0,None
+TXN_00210,XXXX-XXXX-XXXX-4116,Deepak Malhotra,2025-10-23 02:40:00,3714.64,"Dubai, UAE",Myntra,Online Shopping,ATM,1,"Foreign Location, Unusual Timing"
+TXN_00211,XXXX-XXXX-XXXX-9786,Sneha Patel,2025-10-06 04:33:00,3147.25,"London, UK",HDFC ATM,ATM Withdrawal,Online,1,"Foreign Location, Unusual Timing"
+TXN_00212,XXXX-XXXX-XXXX-8350,Pooja Nair,2025-10-23 02:12:00,42142.99,Singapore,Reliance Fresh,Grocery,Online,1,"Foreign Location, Unusual Timing"
+TXN_00213,XXXX-XXXX-XXXX-3296,Pooja Nair,2025-10-16 05:22:00,8051.39,"Bangalore, India",IndiGo,Travel,International,1,ML Model Flag
+TXN_00214,XXXX-XXXX-XXXX-7912,Suresh Reddy,2025-10-28 20:52:00,3997.27,Singapore,DMart,Grocery,Online,1,Foreign Location
+TXN_00215,XXXX-XXXX-XXXX-4006,Deepak Malhotra,2025-10-07 15:15:00,7509.43,"Bangalore, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00216,XXXX-XXXX-XXXX-5563,Amit Verma,2025-10-05 17:09:00,14721.65,"Mumbai, India",Zara Premium,Luxury Goods,Swipe,0,None
+TXN_00217,XXXX-XXXX-XXXX-8579,Amit Verma,2025-10-12 06:12:00,12611.99,"Bangalore, India",Vijay Sales,Electronics,Contactless,0,None
+TXN_00218,XXXX-XXXX-XXXX-5092,Pooja Nair,2025-10-08 17:38:00,29487.56,"Mumbai, India",HPCL Pump,Fuel,Contactless,0,None
+TXN_00219,XXXX-XXXX-XXXX-2235,Priya Mehta,2025-10-07 20:48:00,3396.98,"Delhi, India",ICICI ATM,ATM Withdrawal,International,0,None
+TXN_00220,XXXX-XXXX-XXXX-8260,Amit Verma,2025-10-29 07:04:00,3985.53,Singapore,IndiGo,Travel,Contactless,1,Foreign Location
+TXN_00221,XXXX-XXXX-XXXX-2604,Rahul Sharma,2025-10-08 21:49:00,29615.23,"Kolkata, India",Flipkart,Online Shopping,Swipe,0,None
+TXN_00222,XXXX-XXXX-XXXX-1828,Rahul Sharma,2025-10-28 03:31:00,5014.99,Singapore,MakeMyTrip,Travel,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00223,XXXX-XXXX-XXXX-9856,Anjali Singh,2025-10-21 03:48:00,12517.1,"Pune, India",DMart,Grocery,Swipe,1,Unusual Timing
+TXN_00224,XXXX-XXXX-XXXX-1241,Pooja Nair,2025-10-25 09:48:00,9853.66,"Delhi, India",Dominos,Restaurant,Swipe,0,None
+TXN_00225,XXXX-XXXX-XXXX-2528,Sneha Patel,2025-10-26 01:28:00,3934.17,Singapore,Reliance Fresh,Grocery,ATM,1,"Foreign Location, Unusual Timing"
+TXN_00226,XXXX-XXXX-XXXX-4872,Amit Verma,2025-10-30 09:59:00,210423.61,"Pune, India",Apollo Pharmacy,Medical,Online,1,High Amount
+TXN_00227,XXXX-XXXX-XXXX-3724,Suresh Reddy,2025-10-25 10:41:00,2606.68,"New York, USA",DMart,Grocery,Swipe,1,Foreign Location
+TXN_00228,XXXX-XXXX-XXXX-7658,Suresh Reddy,2025-10-28 10:39:00,40210.97,"Kolkata, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00229,XXXX-XXXX-XXXX-8956,Anjali Singh,2025-10-15 02:55:00,13761.8,"Delhi, India",Myntra,Online Shopping,Contactless,1,Unusual Timing
+TXN_00230,XXXX-XXXX-XXXX-8886,Suresh Reddy,2025-10-28 02:20:00,9662.96,"Hyderabad, India",MakeMyTrip,Travel,Swipe,1,Unusual Timing
+TXN_00231,XXXX-XXXX-XXXX-4502,Deepak Malhotra,2025-10-07 18:28:00,603.97,"Delhi, India",Dominos,Restaurant,Swipe,0,None
+TXN_00232,XXXX-XXXX-XXXX-7570,Neha Joshi,2025-10-04 05:30:00,217053.89,"Bangalore, India",Big Bazaar,Grocery,Swipe,1,High Amount
+TXN_00233,XXXX-XXXX-XXXX-1960,Pooja Nair,2025-10-20 04:40:00,44489.07,"Pune, India",HPCL Pump,Fuel,Contactless,1,Unusual Timing
+TXN_00234,XXXX-XXXX-XXXX-3697,Pooja Nair,2025-10-14 06:50:00,10636.83,"Mumbai, India",HPCL Pump,Fuel,ATM,0,None
+TXN_00235,XXXX-XXXX-XXXX-7209,Deepak Malhotra,2025-10-13 01:37:00,7635.42,"Kolkata, India",DMart,Grocery,Online,1,Unusual Timing
+TXN_00236,XXXX-XXXX-XXXX-1035,Anjali Singh,2025-10-03 17:22:00,9305.75,Singapore,Zomato,Restaurant,Swipe,1,Foreign Location
+TXN_00237,XXXX-XXXX-XXXX-7396,Vikas Gupta,2025-10-22 23:04:00,9286.14,Singapore,SBI ATM,ATM Withdrawal,Swipe,1,Foreign Location
+TXN_00238,XXXX-XXXX-XXXX-5345,Pooja Nair,2025-10-14 13:29:00,7369.03,"Bangalore, India",Louis Vuitton,Luxury Goods,Online,0,None
+TXN_00239,XXXX-XXXX-XXXX-8454,Kiran Rao,2025-10-20 14:02:00,8319.49,Hong Kong,Reliance Fresh,Grocery,Swipe,1,Foreign Location
+TXN_00240,XXXX-XXXX-XXXX-5673,Neha Joshi,2025-10-03 18:23:00,7988.32,Singapore,MedPlus,Medical,ATM,1,Foreign Location
+TXN_00241,XXXX-XXXX-XXXX-7930,Rahul Sharma,2025-10-13 13:04:00,14664.44,"Mumbai, India",DMart,Grocery,Swipe,0,None
+TXN_00242,XXXX-XXXX-XXXX-8973,Priya Mehta,2025-10-28 20:55:00,12216.04,"Hyderabad, India",HPCL Pump,Fuel,Contactless,0,None
+TXN_00243,XXXX-XXXX-XXXX-3536,Sneha Patel,2025-10-05 04:39:00,12111.9,"New York, USA",Big Bazaar,Grocery,ATM,1,"Foreign Location, Unusual Timing"
+TXN_00244,XXXX-XXXX-XXXX-4111,Suresh Reddy,2025-10-26 16:32:00,18370.99,Singapore,Vijay Sales,Electronics,Online,1,Foreign Location
+TXN_00245,XXXX-XXXX-XXXX-5861,Vikas Gupta,2025-10-17 17:29:00,2959.79,"Delhi, India",Croma,Electronics,Online,1,ML Model Flag
+TXN_00246,XXXX-XXXX-XXXX-4566,Sneha Patel,2025-10-26 02:35:00,12246.69,"Hyderabad, India",Zomato,Restaurant,International,1,Unusual Timing
+TXN_00247,XXXX-XXXX-XXXX-1958,Priya Mehta,2025-10-03 02:28:00,6013.76,Singapore,Swiggy,Restaurant,Online,1,"Foreign Location, Unusual Timing"
+TXN_00248,XXXX-XXXX-XXXX-9883,Suresh Reddy,2025-10-25 17:41:00,6149.81,"Mumbai, India",IRCTC,Travel,Swipe,0,None
+TXN_00249,XXXX-XXXX-XXXX-1998,Suresh Reddy,2025-10-09 08:20:00,14854.47,"Kolkata, India",Amazon India,Online Shopping,Online,0,None
+TXN_00250,XXXX-XXXX-XXXX-6138,Deepak Malhotra,2025-10-27 03:30:00,10292.22,"Delhi, India",Amazon India,Online Shopping,International,1,Unusual Timing
+TXN_00251,XXXX-XXXX-XXXX-1936,Vikas Gupta,2025-10-22 17:09:00,45037.67,Hong Kong,Louis Vuitton,Luxury Goods,Contactless,1,"Foreign Location, Suspicious Category"
+TXN_00252,XXXX-XXXX-XXXX-1821,Anjali Singh,2025-10-03 23:28:00,28274.24,"Delhi, India",Dominos,Restaurant,Swipe,0,None
+TXN_00253,XXXX-XXXX-XXXX-8811,Rahul Sharma,2025-10-05 17:51:00,936.11,"London, UK",Vijay Sales,Electronics,Online,1,Foreign Location
+TXN_00254,XXXX-XXXX-XXXX-9238,Rahul Sharma,2025-10-15 23:45:00,2653.62,"Mumbai, India",Flipkart,Online Shopping,Online,0,None
+TXN_00255,XXXX-XXXX-XXXX-9701,Anjali Singh,2025-10-04 22:32:00,6565.25,"Pune, India",Swiggy,Restaurant,Online,0,None
+TXN_00256,XXXX-XXXX-XXXX-3579,Sneha Patel,2025-10-28 21:11:00,45028.61,"Pune, India",DMart,Grocery,Online,0,None
+TXN_00257,XXXX-XXXX-XXXX-1931,Sneha Patel,2025-10-03 00:15:00,7969.57,"London, UK",Zomato,Restaurant,Online,1,"Foreign Location, Unusual Timing"
+TXN_00258,XXXX-XXXX-XXXX-9320,Priya Mehta,2025-10-20 00:28:00,3250.11,"Chennai, India",Croma,Electronics,Online,1,Unusual Timing
+TXN_00259,XXXX-XXXX-XXXX-2312,Deepak Malhotra,2025-10-23 16:33:00,31642.51,"Delhi, India",Amazon,Electronics,Online,0,None
+TXN_00260,XXXX-XXXX-XXXX-4044,Kiran Rao,2025-10-27 08:10:00,1207.79,"Delhi, India",Swiggy,Restaurant,Online,0,None
+TXN_00261,XXXX-XXXX-XXXX-2122,Vikas Gupta,2025-10-16 20:23:00,34722.85,"Mumbai, India",HPCL Pump,Fuel,Online,0,None
+TXN_00262,XXXX-XXXX-XXXX-2113,Deepak Malhotra,2025-10-13 09:24:00,13938.62,"Delhi, India",ICICI ATM,ATM Withdrawal,ATM,1,ML Model Flag
+TXN_00263,XXXX-XXXX-XXXX-4853,Deepak Malhotra,2025-10-18 18:49:00,14425.89,"Mumbai, India",Myntra,Online Shopping,Online,0,None
+TXN_00264,XXXX-XXXX-XXXX-7615,Suresh Reddy,2025-10-15 18:43:00,11308.59,"Mumbai, India",Unregistered,Unknown,Online,0,None
+TXN_00265,XXXX-XXXX-XXXX-2964,Sneha Patel,2025-10-26 20:03:00,17692.81,"Bangalore, India",Reliance Fresh,Grocery,Swipe,0,None
+TXN_00266,XXXX-XXXX-XXXX-5033,Rahul Sharma,2025-10-28 06:41:00,3683.04,"Kolkata, India",Flipkart,Online Shopping,Online,0,None
+TXN_00267,XXXX-XXXX-XXXX-1651,Neha Joshi,2025-10-15 14:04:00,46378.4,Singapore,Reliance Fresh,Grocery,Swipe,1,Foreign Location
+TXN_00268,XXXX-XXXX-XXXX-2343,Anjali Singh,2025-10-15 09:06:00,11358.58,"London, UK",ICICI ATM,ATM Withdrawal,ATM,1,Foreign Location
+TXN_00269,XXXX-XXXX-XXXX-7868,Pooja Nair,2025-10-25 03:43:00,14828.32,"Chennai, India",ICICI ATM,ATM Withdrawal,ATM,1,Unusual Timing
+TXN_00270,XXXX-XXXX-XXXX-9565,Kiran Rao,2025-10-17 19:18:00,49101.32,"Bangalore, India",SBI ATM,ATM Withdrawal,Online,0,None
+TXN_00271,XXXX-XXXX-XXXX-6183,Amit Verma,2025-10-12 02:46:00,6612.61,"Hyderabad, India",DMart,Grocery,Online,1,Unusual Timing
+TXN_00272,XXXX-XXXX-XXXX-5272,Pooja Nair,2025-10-29 08:58:00,41915.2,"Mumbai, India",Myntra,Online Shopping,Swipe,1,ML Model Flag
+TXN_00273,XXXX-XXXX-XXXX-4346,Pooja Nair,2025-10-27 01:55:00,42074.42,"Chennai, India",Vijay Sales,Electronics,International,1,Unusual Timing
+TXN_00274,XXXX-XXXX-XXXX-6147,Anjali Singh,2025-10-07 17:21:00,4172.57,"London, UK",Zara Premium,Luxury Goods,International,1,Foreign Location
+TXN_00275,XXXX-XXXX-XXXX-4910,Priya Mehta,2025-10-04 19:37:00,27453.39,"Pune, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00276,XXXX-XXXX-XXXX-5351,Ravi Kumar,2025-10-29 15:09:00,38789.32,"Pune, India",Amazon,Electronics,Swipe,0,None
+TXN_00277,XXXX-XXXX-XXXX-7484,Sneha Patel,2025-10-16 06:19:00,1376.84,"Delhi, India",Amazon India,Online Shopping,Online,0,None
+TXN_00278,XXXX-XXXX-XXXX-3144,Suresh Reddy,2025-10-29 07:44:00,11991.02,"Mumbai, India",BPCL Petrol Bunk,Fuel,Swipe,0,None
+TXN_00279,XXXX-XXXX-XXXX-5915,Kiran Rao,2025-10-29 14:25:00,20397.73,"Dubai, UAE",Vijay Sales,Electronics,Swipe,1,Foreign Location
+TXN_00280,XXXX-XXXX-XXXX-8491,Sneha Patel,2025-10-06 20:38:00,40887.94,"Delhi, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00281,XXXX-XXXX-XXXX-6180,Suresh Reddy,2025-10-04 22:19:00,1687.61,"Bangalore, India",IndiGo,Travel,Online,0,None
+TXN_00282,XXXX-XXXX-XXXX-2188,Sneha Patel,2025-10-25 04:24:00,4693.19,Singapore,BPCL Petrol Bunk,Fuel,Online,1,"Foreign Location, Unusual Timing"
+TXN_00283,XXXX-XXXX-XXXX-1152,Deepak Malhotra,2025-10-28 18:50:00,4119.52,"Mumbai, India",HDFC ATM,ATM Withdrawal,Online,0,None
+TXN_00284,XXXX-XXXX-XXXX-8508,Neha Joshi,2025-10-15 08:52:00,2892.14,"Delhi, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00285,XXXX-XXXX-XXXX-2638,Vikas Gupta,2025-10-06 18:42:00,8365.63,"Bangalore, India",DMart,Grocery,Swipe,0,None
+TXN_00286,XXXX-XXXX-XXXX-2200,Anjali Singh,2025-10-31 07:53:00,491.3,"Kolkata, India",Flipkart,Online Shopping,Contactless,0,None
+TXN_00287,XXXX-XXXX-XXXX-9808,Sneha Patel,2025-10-30 13:58:00,1486.66,"Hyderabad, India",Dominos,Restaurant,Online,0,None
+TXN_00288,XXXX-XXXX-XXXX-4492,Sneha Patel,2025-10-23 19:05:00,4934.01,"New York, USA",Big Bazaar,Grocery,Online,1,Foreign Location
+TXN_00289,XXXX-XXXX-XXXX-9288,Deepak Malhotra,2025-10-28 21:42:00,4448.53,"Mumbai, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00290,XXXX-XXXX-XXXX-5345,Ravi Kumar,2025-10-19 09:32:00,1362.02,"Hyderabad, India",Flipkart,Online Shopping,Online,0,None
+TXN_00291,XXXX-XXXX-XXXX-3170,Vikas Gupta,2025-10-16 18:01:00,294543.27,"Hyderabad, India",Big Bazaar,Grocery,Swipe,1,High Amount
+TXN_00292,XXXX-XXXX-XXXX-6718,Deepak Malhotra,2025-10-16 19:19:00,2626.79,"Chennai, India",Big Bazaar,Grocery,Contactless,0,None
+TXN_00293,XXXX-XXXX-XXXX-2127,Pooja Nair,2025-10-09 00:13:00,2168.72,"Mumbai, India",Amazon India,Online Shopping,International,1,Unusual Timing
+TXN_00294,XXXX-XXXX-XXXX-5002,Vikas Gupta,2025-10-15 21:49:00,7447.55,Singapore,Myntra,Online Shopping,ATM,1,Foreign Location
+TXN_00295,XXXX-XXXX-XXXX-7054,Ravi Kumar,2025-10-22 01:12:00,6576.68,"Delhi, India",Amazon,Electronics,Contactless,1,Unusual Timing
+TXN_00296,XXXX-XXXX-XXXX-5669,Amit Verma,2025-10-10 23:08:00,7315.05,"London, UK",Flipkart,Online Shopping,Swipe,1,Foreign Location
+TXN_00297,XXXX-XXXX-XXXX-3584,Ravi Kumar,2025-10-07 22:04:00,3850.33,"Delhi, India",Croma,Electronics,Contactless,0,None
+TXN_00298,XXXX-XXXX-XXXX-8179,Neha Joshi,2025-10-13 22:54:00,9413.0,"Mumbai, India",Zomato,Restaurant,ATM,0,None
+TXN_00299,XXXX-XXXX-XXXX-9900,Pooja Nair,2025-10-05 15:32:00,3013.67,"Delhi, India",Louis Vuitton,Luxury Goods,Online,0,None
+TXN_00300,XXXX-XXXX-XXXX-5956,Neha Joshi,2025-10-24 08:53:00,4639.4,"Delhi, India",HPCL Pump,Fuel,ATM,0,None
+TXN_00301,XXXX-XXXX-XXXX-9666,Amit Verma,2025-10-23 19:02:00,36706.73,"Pune, India",DMart,Grocery,Swipe,0,None
+TXN_00302,XXXX-XXXX-XXXX-1128,Vikas Gupta,2025-10-29 13:21:00,26715.77,"Kolkata, India",Amazon,Electronics,Swipe,0,None
+TXN_00303,XXXX-XXXX-XXXX-5905,Deepak Malhotra,2025-10-27 16:08:00,49097.89,"Kolkata, India",HPCL Pump,Fuel,Online,0,None
+TXN_00304,XXXX-XXXX-XXXX-2697,Anjali Singh,2025-10-26 19:24:00,4877.91,"Delhi, India",Myntra,Online Shopping,Online,0,None
+TXN_00305,XXXX-XXXX-XXXX-3200,Suresh Reddy,2025-10-07 21:10:00,25996.41,"Delhi, India",Amazon India,Online Shopping,Swipe,0,None
+TXN_00306,XXXX-XXXX-XXXX-5333,Priya Mehta,2025-10-09 01:53:00,122862.04,"Delhi, India",Flipkart,Online Shopping,Online,1,"High Amount, Unusual Timing"
+TXN_00307,XXXX-XXXX-XXXX-2891,Deepak Malhotra,2025-10-30 21:49:00,7416.01,"Mumbai, India",Swiggy,Restaurant,Swipe,0,None
+TXN_00308,XXXX-XXXX-XXXX-2753,Pooja Nair,2025-10-27 23:51:00,3712.12,"Hyderabad, India",Dominos,Restaurant,Swipe,0,None
+TXN_00309,XXXX-XXXX-XXXX-3546,Amit Verma,2025-10-08 09:46:00,12265.77,"Dubai, UAE",Big Bazaar,Grocery,Swipe,1,Foreign Location
+TXN_00310,XXXX-XXXX-XXXX-5462,Priya Mehta,2025-10-20 00:02:00,1796.93,"Delhi, India",IRCTC,Travel,Online,1,Unusual Timing
+TXN_00311,XXXX-XXXX-XXXX-5616,Vikas Gupta,2025-10-18 20:23:00,8924.18,"Bangalore, India",Amazon,Electronics,Swipe,0,None
+TXN_00312,XXXX-XXXX-XXXX-4450,Vikas Gupta,2025-10-30 04:46:00,10257.52,"Chennai, India",Vijay Sales,Electronics,Swipe,1,Unusual Timing
+TXN_00313,XXXX-XXXX-XXXX-6617,Priya Mehta,2025-10-11 11:28:00,14299.77,"Delhi, India",IRCTC,Travel,Swipe,0,None
+TXN_00314,XXXX-XXXX-XXXX-4335,Deepak Malhotra,2025-10-27 09:18:00,10654.67,"Pune, India",Louis Vuitton,Luxury Goods,Contactless,0,None
+TXN_00315,XXXX-XXXX-XXXX-5325,Kiran Rao,2025-10-20 11:14:00,4440.83,"Hyderabad, India",Amazon,Electronics,Contactless,0,None
+TXN_00316,XXXX-XXXX-XXXX-9280,Anjali Singh,2025-10-24 02:15:00,12302.59,"Delhi, India",Amazon India,Online Shopping,Swipe,1,Unusual Timing
+TXN_00317,XXXX-XXXX-XXXX-9004,Priya Mehta,2025-10-14 12:51:00,32475.61,"Mumbai, India",Dominos,Restaurant,Swipe,0,None
+TXN_00318,XXXX-XXXX-XXXX-5114,Neha Joshi,2025-10-21 08:57:00,3706.12,"Delhi, India",DMart,Grocery,Online,0,None
+TXN_00319,XXXX-XXXX-XXXX-1832,Anjali Singh,2025-10-09 14:23:00,10757.02,"Delhi, India",Big Bazaar,Grocery,Online,0,None
+TXN_00320,XXXX-XXXX-XXXX-2512,Suresh Reddy,2025-10-30 06:36:00,49674.52,"Mumbai, India",Big Bazaar,Grocery,Online,0,None
+TXN_00321,XXXX-XXXX-XXXX-7939,Vikas Gupta,2025-10-20 03:29:00,6072.0,"Dubai, UAE",Zomato,Restaurant,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00322,XXXX-XXXX-XXXX-5533,Sneha Patel,2025-10-13 08:49:00,13813.84,"Bangalore, India",Zomato,Restaurant,International,0,None
+TXN_00323,XXXX-XXXX-XXXX-1722,Kiran Rao,2025-10-17 15:32:00,8200.31,"Bangalore, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00324,XXXX-XXXX-XXXX-1058,Deepak Malhotra,2025-10-23 20:26:00,46342.55,"Chennai, India",Myntra,Online Shopping,Contactless,0,None
+TXN_00325,XXXX-XXXX-XXXX-6464,Amit Verma,2025-10-08 05:52:00,9608.89,"Pune, India",Big Bazaar,Grocery,Online,0,None
+TXN_00326,XXXX-XXXX-XXXX-3143,Vikas Gupta,2025-10-09 20:51:00,11557.42,"Mumbai, India",Apollo Pharmacy,Medical,ATM,0,None
+TXN_00327,XXXX-XXXX-XXXX-5291,Ravi Kumar,2025-10-27 03:08:00,5389.63,"Hyderabad, India",HPCL Pump,Fuel,International,1,Unusual Timing
+TXN_00328,XXXX-XXXX-XXXX-3647,Deepak Malhotra,2025-10-12 00:03:00,760.02,"Delhi, India",HPCL Pump,Fuel,Swipe,1,Unusual Timing
+TXN_00329,XXXX-XXXX-XXXX-8239,Vikas Gupta,2025-10-28 16:30:00,28986.62,"London, UK",MakeMyTrip,Travel,Contactless,1,Foreign Location
+TXN_00330,XXXX-XXXX-XXXX-8007,Kiran Rao,2025-10-17 04:35:00,157613.89,"Bangalore, India",Zomato,Restaurant,Swipe,1,"High Amount, Unusual Timing"
+TXN_00331,XXXX-XXXX-XXXX-1158,Kiran Rao,2025-10-05 17:45:00,3955.2,"Chennai, India",DMart,Grocery,Online,0,None
+TXN_00332,XXXX-XXXX-XXXX-2832,Sneha Patel,2025-10-23 08:54:00,7830.09,"Delhi, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00333,XXXX-XXXX-XXXX-2232,Neha Joshi,2025-10-06 15:18:00,8671.01,"Chennai, India",MedPlus,Medical,ATM,0,None
+TXN_00334,XXXX-XXXX-XXXX-3442,Ravi Kumar,2025-10-04 21:48:00,5927.9,"Delhi, India",ICICI ATM,ATM Withdrawal,ATM,0,None
+TXN_00335,XXXX-XXXX-XXXX-9938,Deepak Malhotra,2025-10-08 04:17:00,32516.3,"Delhi, India",Myntra,Online Shopping,ATM,1,Unusual Timing
+TXN_00336,XXXX-XXXX-XXXX-1590,Vikas Gupta,2025-10-20 12:57:00,465.98,"Mumbai, India",IndiGo,Travel,Swipe,0,None
+TXN_00337,XXXX-XXXX-XXXX-7049,Neha Joshi,2025-10-23 05:09:00,6298.03,"Kolkata, India",HPCL Pump,Fuel,Contactless,0,None
+TXN_00338,XXXX-XXXX-XXXX-3426,Sneha Patel,2025-10-19 23:05:00,47923.67,"Pune, India",Dominos,Restaurant,Swipe,0,None
+TXN_00339,XXXX-XXXX-XXXX-8041,Sneha Patel,2025-10-10 19:52:00,4747.17,"Mumbai, India",Zara Premium,Luxury Goods,Contactless,0,None
+TXN_00340,XXXX-XXXX-XXXX-3088,Pooja Nair,2025-10-20 13:56:00,3182.32,"Bangalore, India",Big Bazaar,Grocery,Online,0,None
+TXN_00341,XXXX-XXXX-XXXX-1685,Deepak Malhotra,2025-10-16 05:59:00,7194.82,"Hyderabad, India",Amazon India,Online Shopping,Contactless,0,None
+TXN_00342,XXXX-XXXX-XXXX-6050,Anjali Singh,2025-10-02 11:26:00,10481.77,Hong Kong,Flipkart,Online Shopping,Swipe,1,Foreign Location
+TXN_00343,XXXX-XXXX-XXXX-6974,Priya Mehta,2025-10-03 14:25:00,4573.93,"Hyderabad, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00344,XXXX-XXXX-XXXX-1653,Vikas Gupta,2025-10-22 18:23:00,44721.3,"Hyderabad, India",MedPlus,Medical,Contactless,0,None
+TXN_00345,XXXX-XXXX-XXXX-6862,Ravi Kumar,2025-10-11 09:24:00,10189.38,"Dubai, UAE",HDFC ATM,ATM Withdrawal,Online,1,Foreign Location
+TXN_00346,XXXX-XXXX-XXXX-4441,Vikas Gupta,2025-10-04 19:23:00,14760.12,"Dubai, UAE",Amazon India,Online Shopping,International,1,Foreign Location
+TXN_00347,XXXX-XXXX-XXXX-5088,Vikas Gupta,2025-10-10 21:01:00,2699.35,"Bangalore, India",Amazon India,Online Shopping,Online,0,None
+TXN_00348,XXXX-XXXX-XXXX-2684,Anjali Singh,2025-10-14 22:59:00,8441.75,"Hyderabad, India",MedPlus,Medical,Contactless,0,None
+TXN_00349,XXXX-XXXX-XXXX-6794,Sneha Patel,2025-10-05 13:53:00,29176.66,"London, UK",Reliance Fresh,Grocery,Online,1,Foreign Location
+TXN_00350,XXXX-XXXX-XXXX-7658,Amit Verma,2025-10-29 01:21:00,9643.14,"Chennai, India",Amazon India,Online Shopping,Online,1,Unusual Timing
+TXN_00351,XXXX-XXXX-XXXX-3532,Suresh Reddy,2025-10-07 13:08:00,534.96,"London, UK",Dominos,Restaurant,Online,1,Foreign Location
+TXN_00352,XXXX-XXXX-XXXX-4878,Vikas Gupta,2025-10-02 23:18:00,3040.13,"Chennai, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00353,XXXX-XXXX-XXXX-3662,Amit Verma,2025-10-21 11:44:00,5893.65,"Mumbai, India",BPCL Petrol Bunk,Fuel,International,0,None
+TXN_00354,XXXX-XXXX-XXXX-3900,Neha Joshi,2025-10-07 06:48:00,41331.39,"New York, USA",Amazon India,Online Shopping,Online,1,Foreign Location
+TXN_00355,XXXX-XXXX-XXXX-7755,Rahul Sharma,2025-10-21 08:28:00,18561.32,"Pune, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00356,XXXX-XXXX-XXXX-1406,Suresh Reddy,2025-10-27 14:00:00,26409.47,"Chennai, India",Myntra,Online Shopping,Online,0,None
+TXN_00357,XXXX-XXXX-XXXX-3938,Suresh Reddy,2025-10-04 17:01:00,4009.07,"New York, USA",BPCL Petrol Bunk,Fuel,Swipe,1,Foreign Location
+TXN_00358,XXXX-XXXX-XXXX-6442,Neha Joshi,2025-10-12 06:13:00,37368.8,"Dubai, UAE",Zara Premium,Luxury Goods,ATM,1,"Foreign Location, Suspicious Category"
+TXN_00359,XXXX-XXXX-XXXX-7745,Ravi Kumar,2025-10-07 17:35:00,9208.5,"Pune, India",Apollo Pharmacy,Medical,ATM,0,None
+TXN_00360,XXXX-XXXX-XXXX-5065,Pooja Nair,2025-10-27 07:33:00,5284.08,"Pune, India",MakeMyTrip,Travel,Swipe,0,None
+TXN_00361,XXXX-XXXX-XXXX-5371,Neha Joshi,2025-10-19 09:07:00,43480.84,"Mumbai, India",Vijay Sales,Electronics,Swipe,0,None
+TXN_00362,XXXX-XXXX-XXXX-3608,Deepak Malhotra,2025-10-13 15:15:00,36506.96,"Kolkata, India",Zara Premium,Luxury Goods,Online,1,Suspicious Category
+TXN_00363,XXXX-XXXX-XXXX-2771,Anjali Singh,2025-10-14 04:07:00,2095.82,"Delhi, India",Louis Vuitton,Luxury Goods,Online,1,Unusual Timing
+TXN_00364,XXXX-XXXX-XXXX-7267,Rahul Sharma,2025-10-03 08:15:00,4650.16,Hong Kong,HPCL Pump,Fuel,Swipe,1,Foreign Location
+TXN_00365,XXXX-XXXX-XXXX-1634,Vikas Gupta,2025-10-19 05:40:00,10432.2,Hong Kong,Big Bazaar,Grocery,Swipe,1,Foreign Location
+TXN_00366,XXXX-XXXX-XXXX-8711,Pooja Nair,2025-10-27 21:29:00,6331.76,"Dubai, UAE",HPCL Pump,Fuel,Swipe,1,Foreign Location
+TXN_00367,XXXX-XXXX-XXXX-4644,Kiran Rao,2025-10-04 00:07:00,5817.28,"Mumbai, India",Dominos,Restaurant,Contactless,1,Unusual Timing
+TXN_00368,XXXX-XXXX-XXXX-4269,Kiran Rao,2025-10-22 15:38:00,9568.97,"Chennai, India",Dominos,Restaurant,Swipe,0,None
+TXN_00369,XXXX-XXXX-XXXX-8541,Anjali Singh,2025-10-24 04:01:00,9714.38,Hong Kong,Amazon,Electronics,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00370,XXXX-XXXX-XXXX-6728,Vikas Gupta,2025-10-28 07:32:00,32137.47,"Chennai, India",Swiggy,Restaurant,Contactless,0,None
+TXN_00371,XXXX-XXXX-XXXX-6000,Anjali Singh,2025-10-25 20:15:00,4787.24,Hong Kong,SBI ATM,ATM Withdrawal,Online,1,Foreign Location
+TXN_00372,XXXX-XXXX-XXXX-4728,Suresh Reddy,2025-10-07 11:18:00,898.81,"Pune, India",Dominos,Restaurant,Online,0,None
+TXN_00373,XXXX-XXXX-XXXX-4652,Ravi Kumar,2025-10-19 15:00:00,242.79,"Dubai, UAE",Apollo Pharmacy,Medical,Online,1,Foreign Location
+TXN_00374,XXXX-XXXX-XXXX-1387,Pooja Nair,2025-10-27 13:22:00,12246.72,"Delhi, India",Amazon India,Online Shopping,Swipe,0,None
+TXN_00375,XXXX-XXXX-XXXX-4164,Priya Mehta,2025-10-11 14:36:00,32323.94,"New York, USA",Vijay Sales,Electronics,Swipe,1,Foreign Location
+TXN_00376,XXXX-XXXX-XXXX-7528,Anjali Singh,2025-10-19 02:11:00,6292.89,"New York, USA",Myntra,Online Shopping,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00377,XXXX-XXXX-XXXX-6378,Deepak Malhotra,2025-10-29 16:42:00,17893.47,"Mumbai, India",Amazon,Electronics,Online,0,None
+TXN_00378,XXXX-XXXX-XXXX-5564,Ravi Kumar,2025-10-04 23:33:00,11439.74,"Bangalore, India",Croma,Electronics,International,0,None
+TXN_00379,XXXX-XXXX-XXXX-2137,Suresh Reddy,2025-10-16 17:04:00,4195.31,"Bangalore, India",Dominos,Restaurant,International,0,None
+TXN_00380,XXXX-XXXX-XXXX-5573,Pooja Nair,2025-10-23 18:34:00,2606.31,"Bangalore, India",Unknown Merchant,Unknown,Online,0,None
+TXN_00381,XXXX-XXXX-XXXX-6753,Kiran Rao,2025-10-22 23:50:00,11163.52,"Delhi, India",Zomato,Restaurant,Swipe,0,None
+TXN_00382,XXXX-XXXX-XXXX-9346,Kiran Rao,2025-10-22 23:35:00,18962.38,"Chennai, India",Zara Premium,Luxury Goods,Online,0,None
+TXN_00383,XXXX-XXXX-XXXX-7548,Kiran Rao,2025-10-02 04:24:00,11649.18,"London, UK",Myntra,Online Shopping,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00384,XXXX-XXXX-XXXX-9785,Ravi Kumar,2025-10-21 09:02:00,43791.38,"Kolkata, India",Zomato,Restaurant,Contactless,0,None
+TXN_00385,XXXX-XXXX-XXXX-6425,Sneha Patel,2025-10-28 10:24:00,10812.81,"Pune, India",Amazon,Electronics,Swipe,0,None
+TXN_00386,XXXX-XXXX-XXXX-1452,Suresh Reddy,2025-10-17 06:16:00,14847.66,"Hyderabad, India",Reliance Fresh,Grocery,Swipe,0,None
+TXN_00387,XXXX-XXXX-XXXX-2889,Neha Joshi,2025-10-02 00:22:00,12468.05,"Bangalore, India",HPCL Pump,Fuel,International,1,Unusual Timing
+TXN_00388,XXXX-XXXX-XXXX-5279,Kiran Rao,2025-10-04 05:22:00,49975.94,"Bangalore, India",Myntra,Online Shopping,Contactless,0,None
+TXN_00389,XXXX-XXXX-XXXX-3925,Rahul Sharma,2025-10-11 14:46:00,5293.8,"Mumbai, India",Myntra,Online Shopping,Contactless,0,None
+TXN_00390,XXXX-XXXX-XXXX-5349,Rahul Sharma,2025-10-29 08:40:00,49788.52,"Hyderabad, India",Swiggy,Restaurant,ATM,0,None
+TXN_00391,XXXX-XXXX-XXXX-1626,Pooja Nair,2025-10-05 18:49:00,43374.6,"Kolkata, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00392,XXXX-XXXX-XXXX-2776,Deepak Malhotra,2025-10-26 03:47:00,5324.4,Singapore,Swiggy,Restaurant,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00393,XXXX-XXXX-XXXX-8119,Deepak Malhotra,2025-10-15 12:08:00,20809.36,"New York, USA",SBI ATM,ATM Withdrawal,Contactless,1,Foreign Location
+TXN_00394,XXXX-XXXX-XXXX-6663,Suresh Reddy,2025-10-03 05:22:00,3178.63,"Hyderabad, India",Amazon,Electronics,Online,0,None
+TXN_00395,XXXX-XXXX-XXXX-6139,Anjali Singh,2025-10-24 15:21:00,984.43,"Mumbai, India",ICICI ATM,ATM Withdrawal,Swipe,0,None
+TXN_00396,XXXX-XXXX-XXXX-8149,Priya Mehta,2025-10-28 18:11:00,4288.17,"Delhi, India",IRCTC,Travel,ATM,0,None
+TXN_00397,XXXX-XXXX-XXXX-9379,Pooja Nair,2025-10-30 13:29:00,4922.44,"Hyderabad, India",Amazon India,Online Shopping,Online,0,None
+TXN_00398,XXXX-XXXX-XXXX-2894,Kiran Rao,2025-10-31 00:30:00,24357.01,"Bangalore, India",DMart,Grocery,Online,1,Unusual Timing
+TXN_00399,XXXX-XXXX-XXXX-7311,Anjali Singh,2025-10-28 06:11:00,219824.83,"Bangalore, India",DMart,Grocery,Swipe,1,High Amount
+TXN_00400,XXXX-XXXX-XXXX-4114,Suresh Reddy,2025-10-07 02:04:00,14445.3,"Bangalore, India",Swiggy,Restaurant,Contactless,1,Unusual Timing
+TXN_00401,XXXX-XXXX-XXXX-5173,Kiran Rao,2025-10-20 20:02:00,298121.56,"Chennai, India",Reliance Fresh,Grocery,Swipe,1,High Amount
+TXN_00402,XXXX-XXXX-XXXX-1727,Rahul Sharma,2025-10-13 20:12:00,45312.76,"Hyderabad, India",IndiGo,Travel,Swipe,0,None
+TXN_00403,XXXX-XXXX-XXXX-8144,Neha Joshi,2025-10-03 04:50:00,10699.78,"Mumbai, India",Reliance Fresh,Grocery,Online,1,Unusual Timing
+TXN_00404,XXXX-XXXX-XXXX-1027,Sneha Patel,2025-10-09 20:56:00,38668.21,"Delhi, India",Amazon,Electronics,Contactless,0,None
+TXN_00405,XXXX-XXXX-XXXX-9518,Ravi Kumar,2025-10-03 02:20:00,8703.64,"Mumbai, India",Croma,Electronics,Swipe,1,Unusual Timing
+TXN_00406,XXXX-XXXX-XXXX-9821,Priya Mehta,2025-10-14 13:32:00,6271.95,"Hyderabad, India",HDFC ATM,ATM Withdrawal,ATM,0,None
+TXN_00407,XXXX-XXXX-XXXX-4228,Vikas Gupta,2025-10-18 07:52:00,9541.05,"Pune, India",Zomato,Restaurant,International,0,None
+TXN_00408,XXXX-XXXX-XXXX-6967,Vikas Gupta,2025-10-24 12:30:00,33046.47,"Mumbai, India",Vijay Sales,Electronics,Online,0,None
+TXN_00409,XXXX-XXXX-XXXX-8066,Neha Joshi,2025-10-12 03:02:00,14051.41,"London, UK",IRCTC,Travel,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00410,XXXX-XXXX-XXXX-2146,Amit Verma,2025-10-28 22:12:00,14258.79,"Bangalore, India",Big Bazaar,Grocery,Swipe,0,None
+TXN_00411,XXXX-XXXX-XXXX-6409,Rahul Sharma,2025-10-13 12:22:00,136.85,"Delhi, India",MakeMyTrip,Travel,Swipe,0,None
+TXN_00412,XXXX-XXXX-XXXX-6143,Kiran Rao,2025-10-03 08:55:00,40582.62,"Kolkata, India",DMart,Grocery,Swipe,0,None
+TXN_00413,XXXX-XXXX-XXXX-3041,Pooja Nair,2025-10-29 07:21:00,9995.74,"New York, USA",ICICI ATM,ATM Withdrawal,Online,1,Foreign Location
+TXN_00414,XXXX-XXXX-XXXX-5920,Amit Verma,2025-10-12 23:07:00,1043.63,"New York, USA",Dominos,Restaurant,Swipe,1,Foreign Location
+TXN_00415,XXXX-XXXX-XXXX-9308,Kiran Rao,2025-10-17 00:27:00,3345.67,"Mumbai, India",HDFC ATM,ATM Withdrawal,Online,1,Unusual Timing
+TXN_00416,XXXX-XXXX-XXXX-6067,Priya Mehta,2025-10-18 09:47:00,3256.59,"Dubai, UAE",Swiggy,Restaurant,Online,1,Foreign Location
+TXN_00417,XXXX-XXXX-XXXX-7691,Anjali Singh,2025-10-20 02:57:00,12442.32,"Bangalore, India",Amazon India,Online Shopping,Swipe,1,Unusual Timing
+TXN_00418,XXXX-XXXX-XXXX-6344,Sneha Patel,2025-10-17 19:21:00,8711.21,"Delhi, India",Croma,Electronics,Swipe,0,None
+TXN_00419,XXXX-XXXX-XXXX-7592,Sneha Patel,2025-10-09 07:31:00,7331.53,"Chennai, India",IndiGo,Travel,ATM,0,None
+TXN_00420,XXXX-XXXX-XXXX-5844,Rahul Sharma,2025-10-30 20:31:00,10270.02,"Pune, India",IndiGo,Travel,Contactless,0,None
+TXN_00421,XXXX-XXXX-XXXX-3085,Neha Joshi,2025-10-17 00:59:00,1583.66,"Mumbai, India",Croma,Electronics,Swipe,1,Unusual Timing
+TXN_00422,XXXX-XXXX-XXXX-4143,Kiran Rao,2025-10-23 11:17:00,19348.3,"London, UK",Dominos,Restaurant,Contactless,1,Foreign Location
+TXN_00423,XXXX-XXXX-XXXX-7888,Suresh Reddy,2025-10-04 20:46:00,15023.66,"Mumbai, India",Apollo Pharmacy,Medical,Contactless,0,None
+TXN_00424,XXXX-XXXX-XXXX-7211,Priya Mehta,2025-10-19 10:05:00,39100.72,Hong Kong,HPCL Pump,Fuel,Online,1,Foreign Location
+TXN_00425,XXXX-XXXX-XXXX-3851,Anjali Singh,2025-10-19 16:38:00,9784.96,"Chennai, India",Zara Premium,Luxury Goods,Online,0,None
+TXN_00426,XXXX-XXXX-XXXX-5930,Ravi Kumar,2025-10-09 00:34:00,13997.61,"Dubai, UAE",Louis Vuitton,Luxury Goods,Online,1,"Foreign Location, Unusual Timing"
+TXN_00427,XXXX-XXXX-XXXX-7653,Pooja Nair,2025-10-13 20:20:00,9853.36,"Delhi, India",Amazon,Electronics,Online,0,None
+TXN_00428,XXXX-XXXX-XXXX-9977,Pooja Nair,2025-10-05 17:05:00,5640.47,"Bangalore, India",Flipkart,Online Shopping,Online,0,None
+TXN_00429,XXXX-XXXX-XXXX-1006,Anjali Singh,2025-10-15 07:42:00,28871.95,"Pune, India",DMart,Grocery,Online,0,None
+TXN_00430,XXXX-XXXX-XXXX-5978,Sneha Patel,2025-10-13 22:19:00,10521.68,"Delhi, India",Vijay Sales,Electronics,Online,0,None
+TXN_00431,XXXX-XXXX-XXXX-5700,Kiran Rao,2025-10-20 08:38:00,9866.73,"Delhi, India",Amazon India,Online Shopping,Online,0,None
+TXN_00432,XXXX-XXXX-XXXX-4443,Amit Verma,2025-10-19 12:10:00,31688.23,"Dubai, UAE",MakeMyTrip,Travel,Swipe,1,Foreign Location
+TXN_00433,XXXX-XXXX-XXXX-8043,Ravi Kumar,2025-10-30 18:28:00,3470.24,"Kolkata, India",HDFC ATM,ATM Withdrawal,Online,0,None
+TXN_00434,XXXX-XXXX-XXXX-6279,Anjali Singh,2025-10-16 07:28:00,238.38,"Kolkata, India",IndiGo,Travel,Swipe,0,None
+TXN_00435,XXXX-XXXX-XXXX-8618,Amit Verma,2025-10-03 03:46:00,12274.92,"London, UK",MedPlus,Medical,ATM,1,"Foreign Location, Unusual Timing"
+TXN_00436,XXXX-XXXX-XXXX-8238,Vikas Gupta,2025-10-16 09:39:00,19626.13,"Dubai, UAE",Swiggy,Restaurant,Swipe,1,Foreign Location
+TXN_00437,XXXX-XXXX-XXXX-8244,Vikas Gupta,2025-10-19 21:17:00,5807.74,"Chennai, India",Myntra,Online Shopping,ATM,0,None
+TXN_00438,XXXX-XXXX-XXXX-4501,Deepak Malhotra,2025-10-28 14:50:00,25967.3,"Delhi, India",IRCTC,Travel,Swipe,1,ML Model Flag
+TXN_00439,XXXX-XXXX-XXXX-9375,Sneha Patel,2025-10-03 18:04:00,42071.12,"Bangalore, India",Myntra,Online Shopping,Online,0,None
+TXN_00440,XXXX-XXXX-XXXX-8752,Deepak Malhotra,2025-10-29 23:40:00,49752.91,"Chennai, India",Flipkart,Online Shopping,Swipe,0,None
+TXN_00441,XXXX-XXXX-XXXX-3780,Pooja Nair,2025-10-18 15:23:00,8004.57,"Mumbai, India",IndiGo,Travel,Online,0,None
+TXN_00442,XXXX-XXXX-XXXX-2389,Sneha Patel,2025-10-23 05:51:00,9785.3,"London, UK",Zara Premium,Luxury Goods,ATM,1,Foreign Location
+TXN_00443,XXXX-XXXX-XXXX-5649,Vikas Gupta,2025-10-30 07:10:00,10864.24,"London, UK",Amazon,Electronics,Contactless,1,Foreign Location
+TXN_00444,XXXX-XXXX-XXXX-9445,Suresh Reddy,2025-10-02 15:09:00,2355.47,"Mumbai, India",DMart,Grocery,Online,0,None
+TXN_00445,XXXX-XXXX-XXXX-6491,Suresh Reddy,2025-10-27 06:43:00,10329.84,"Delhi, India",Zomato,Restaurant,Contactless,0,None
+TXN_00446,XXXX-XXXX-XXXX-2530,Rahul Sharma,2025-10-20 00:02:00,18516.28,"Dubai, UAE",DMart,Grocery,Swipe,1,"Foreign Location, Unusual Timing"
+TXN_00447,XXXX-XXXX-XXXX-4848,Pooja Nair,2025-10-06 17:04:00,28441.12,"Dubai, UAE",Reliance Fresh,Grocery,Online,1,Foreign Location
+TXN_00448,XXXX-XXXX-XXXX-6085,Anjali Singh,2025-10-11 09:49:00,19894.06,"Delhi, India",Myntra,Online Shopping,Online,0,None
+TXN_00449,XXXX-XXXX-XXXX-4680,Kiran Rao,2025-10-28 20:23:00,1355.31,"Chennai, India",BPCL Petrol Bunk,Fuel,Swipe,0,None
+TXN_00450,XXXX-XXXX-XXXX-4262,Sneha Patel,2025-10-16 18:24:00,9040.12,"New York, USA",HPCL Pump,Fuel,International,1,Foreign Location
+TXN_00451,XXXX-XXXX-XXXX-3414,Neha Joshi,2025-10-25 12:02:00,11706.65,"Pune, India",Flipkart,Online Shopping,Swipe,0,None
+TXN_00452,XXXX-XXXX-XXXX-1400,Pooja Nair,2025-10-27 03:09:00,12733.59,"Delhi, India",Reliance Fresh,Grocery,Online,1,Unusual Timing
+TXN_00453,XXXX-XXXX-XXXX-1757,Ravi Kumar,2025-10-30 07:28:00,4594.58,"Dubai, UAE",Myntra,Online Shopping,ATM,1,Foreign Location
+TXN_00454,XXXX-XXXX-XXXX-5011,Pooja Nair,2025-10-17 03:23:00,7691.89,"Chennai, India",Vijay Sales,Electronics,Swipe,1,Unusual Timing
+TXN_00455,XXXX-XXXX-XXXX-8784,Pooja Nair,2025-10-20 06:48:00,16909.92,"Pune, India",Vijay Sales,Electronics,ATM,0,None
+TXN_00456,XXXX-XXXX-XXXX-2193,Suresh Reddy,2025-10-04 14:36:00,173721.93,"Mumbai, India",Swiggy,Restaurant,Swipe,1,High Amount
+TXN_00457,XXXX-XXXX-XXXX-8461,Suresh Reddy,2025-10-07 04:33:00,7543.78,"Mumbai, India",Reliance Fresh,Grocery,Online,1,Unusual Timing
+TXN_00458,XXXX-XXXX-XXXX-7790,Pooja Nair,2025-10-16 23:25:00,7971.47,"Bangalore, India",DMart,Grocery,International,0,None
+TXN_00459,XXXX-XXXX-XXXX-4185,Kiran Rao,2025-10-14 17:41:00,283481.1,"Hyderabad, India",Amazon,Electronics,Online,1,High Amount
+TXN_00460,XXXX-XXXX-XXXX-7291,Pooja Nair,2025-10-13 05:15:00,12926.13,"Delhi, India",DMart,Grocery,Online,0,None
+TXN_00461,XXXX-XXXX-XXXX-9099,Kiran Rao,2025-10-06 04:01:00,5544.65,"London, UK",Apollo Pharmacy,Medical,Contactless,1,"Foreign Location, Unusual Timing"
+TXN_00462,XXXX-XXXX-XXXX-7547,Pooja Nair,2025-10-09 06:31:00,11464.62,"Hyderabad, India",Myntra,Online Shopping,ATM,0,None
+TXN_00463,XXXX-XXXX-XXXX-4997,Sneha Patel,2025-10-23 10:24:00,15584.13,"Bangalore, India",Zomato,Restaurant,Swipe,0,None
+TXN_00464,XXXX-XXXX-XXXX-3417,Anjali Singh,2025-10-25 07:07:00,4006.56,"Delhi, India",Myntra,Online Shopping,Swipe,0,None
+TXN_00465,XXXX-XXXX-XXXX-1090,Vikas Gupta,2025-10-12 12:49:00,1000.99,"New York, USA",Amazon India,Online Shopping,Swipe,1,Foreign Location
+TXN_00466,XXXX-XXXX-XXXX-2746,Suresh Reddy,2025-10-12 10:45:00,36999.97,"Kolkata, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00467,XXXX-XXXX-XXXX-7965,Priya Mehta,2025-10-20 08:13:00,6289.94,"Pune, India",IndiGo,Travel,International,0,None
+TXN_00468,XXXX-XXXX-XXXX-4585,Sneha Patel,2025-10-27 10:18:00,33779.77,"Delhi, India",Croma,Electronics,International,0,None
+TXN_00469,XXXX-XXXX-XXXX-3881,Suresh Reddy,2025-10-30 22:58:00,4234.27,"Bangalore, India",Croma,Electronics,Swipe,0,None
+TXN_00470,XXXX-XXXX-XXXX-9486,Amit Verma,2025-10-22 06:12:00,7718.44,"Delhi, India",Big Bazaar,Grocery,Contactless,0,None
+TXN_00471,XXXX-XXXX-XXXX-8611,Priya Mehta,2025-10-06 13:08:00,12140.1,"Hyderabad, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00472,XXXX-XXXX-XXXX-1822,Vikas Gupta,2025-10-04 11:28:00,5921.9,Singapore,Flipkart,Online Shopping,Swipe,1,Foreign Location
+TXN_00473,XXXX-XXXX-XXXX-5082,Deepak Malhotra,2025-10-08 16:57:00,12534.44,"London, UK",BPCL Petrol Bunk,Fuel,Online,1,Foreign Location
+TXN_00474,XXXX-XXXX-XXXX-2988,Vikas Gupta,2025-10-20 07:05:00,1085.11,"Pune, India",Myntra,Online Shopping,Swipe,0,None
+TXN_00475,XXXX-XXXX-XXXX-8478,Kiran Rao,2025-10-30 10:54:00,10976.38,"Pune, India",Reliance Fresh,Grocery,Online,0,None
+TXN_00476,XXXX-XXXX-XXXX-3184,Neha Joshi,2025-10-14 23:42:00,18017.45,"Delhi, India",Amazon,Electronics,Swipe,0,None
+TXN_00477,XXXX-XXXX-XXXX-8612,Sneha Patel,2025-10-16 03:45:00,6855.24,"Bangalore, India",Amazon,Electronics,Contactless,1,Unusual Timing
+TXN_00478,XXXX-XXXX-XXXX-9702,Neha Joshi,2025-10-04 02:35:00,4708.42,"Mumbai, India",Amazon,Electronics,Online,1,Unusual Timing
+TXN_00479,XXXX-XXXX-XXXX-6198,Anjali Singh,2025-10-24 11:18:00,19180.51,"Kolkata, India",HPCL Pump,Fuel,Swipe,0,None
+TXN_00480,XXXX-XXXX-XXXX-8251,Neha Joshi,2025-10-14 03:54:00,20734.14,"Kolkata, India",Croma,Electronics,Online,1,Unusual Timing
+TXN_00481,XXXX-XXXX-XXXX-9270,Suresh Reddy,2025-10-08 01:45:00,42404.55,"Mumbai, India",IRCTC,Travel,Online,1,Unusual Timing
+TXN_00482,XXXX-XXXX-XXXX-7991,Ravi Kumar,2025-10-31 05:40:00,19442.57,"New York, USA",Myntra,Online Shopping,Online,1,Foreign Location
+TXN_00483,XXXX-XXXX-XXXX-9976,Priya Mehta,2025-10-08 18:50:00,46024.52,"Pune, India",Unknown Merchant,Unknown,Contactless,1,Suspicious Category
+TXN_00484,XXXX-XXXX-XXXX-8305,Deepak Malhotra,2025-10-16 18:32:00,43248.77,"Hyderabad, India",MakeMyTrip,Travel,ATM,0,None
+TXN_00485,XXXX-XXXX-XXXX-3607,Priya Mehta,2025-10-10 21:07:00,1051.69,"Mumbai, India",Unknown Merchant,Unknown,Swipe,0,None
+TXN_00486,XXXX-XXXX-XXXX-8777,Deepak Malhotra,2025-10-09 21:50:00,17697.45,"Delhi, India",DMart,Grocery,Swipe,0,None
+TXN_00487,XXXX-XXXX-XXXX-8373,Kiran Rao,2025-10-07 06:15:00,5465.85,"Dubai, UAE",Dominos,Restaurant,Online,1,Foreign Location
+TXN_00488,XXXX-XXXX-XXXX-5246,Suresh Reddy,2025-10-22 09:01:00,8546.6,"Bangalore, India",BPCL Petrol Bunk,Fuel,Online,0,None
+TXN_00489,XXXX-XXXX-XXXX-5050,Deepak Malhotra,2025-10-16 17:35:00,3901.23,Singapore,Apollo Pharmacy,Medical,Swipe,1,Foreign Location
+TXN_00490,XXXX-XXXX-XXXX-5543,Deepak Malhotra,2025-10-25 18:23:00,8651.29,"Pune, India",Amazon India,Online Shopping,International,0,None
+TXN_00491,XXXX-XXXX-XXXX-9540,Neha Joshi,2025-10-21 06:51:00,32808.87,"Chennai, India",Flipkart,Online Shopping,Online,0,None
+TXN_00492,XXXX-XXXX-XXXX-8939,Ravi Kumar,2025-10-24 20:08:00,12957.63,"Bangalore, India",Louis Vuitton,Luxury Goods,Online,0,None
+TXN_00493,XXXX-XXXX-XXXX-4919,Neha Joshi,2025-10-27 10:56:00,7129.29,"Bangalore, India",Swiggy,Restaurant,Online,0,None
+TXN_00494,XXXX-XXXX-XXXX-5499,Rahul Sharma,2025-10-05 00:04:00,2336.26,"Delhi, India",Croma,Electronics,International,1,Unusual Timing
+TXN_00495,XXXX-XXXX-XXXX-8206,Vikas Gupta,2025-10-14 12:25:00,34350.27,"Chennai, India",Apollo Pharmacy,Medical,Online,0,None
+TXN_00496,XXXX-XXXX-XXXX-2269,Anjali Singh,2025-10-21 18:33:00,29677.93,"Pune, India",MedPlus,Medical,Online,0,None
+TXN_00497,XXXX-XXXX-XXXX-5681,Suresh Reddy,2025-10-18 20:49:00,6302.22,"Dubai, UAE",BPCL Petrol Bunk,Fuel,Contactless,1,Foreign Location
+TXN_00498,XXXX-XXXX-XXXX-4841,Suresh Reddy,2025-10-18 19:52:00,17726.05,"Bangalore, India",Myntra,Online Shopping,Online,0,None
+TXN_00499,XXXX-XXXX-XXXX-5451,Pooja Nair,2025-10-25 20:04:00,7580.41,"Mumbai, India",Amazon,Electronics,Contactless,0,None
+TXN_00500,XXXX-XXXX-XXXX-6502,Neha Joshi,2025-10-06 16:20:00,43151.83,"Chennai, India",MedPlus,Medical,Online,0,None
